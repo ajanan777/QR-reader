@@ -101,17 +101,20 @@ This module is responsible for applying Reed-Solomon error correction.
 4.  Open a web browser and navigate to `http://127.0.0.1:5000/`.
 
 
-## social, legal and ethical 
-though out the design and creation of the qr code we have had to consider the social legal and ethical dilemmas
-the main ones being accessiblity misuse and tammpering
-we have to consider that not everyone will have access to the qr code. they rely entirly on having access to a camra that can scan a qr code.
-not every person will have a camra that is able to scan a qr code. however we are unable to do anything.
-we also have to consider that qr can be used to plant malware or be used as phising scams haveing unsuspeting victum scan them.
-we are able to help mitigate the chances of this by having messages and warning pop up about the potentional hazard of qr codes
+## Social, legal and ethical 
+Throughout the design and creation of the QR code, we have had to consider the social, legal, and ethical dilemmas.  
+The main ones being accessibility, misuse, and tampering.
+
+We have to consider that not everyone will have access to the QR code. They rely entirely on having access to a camera that can scan a QR code.  
+Not every person will have a camera that is able to scan a QR code. However, we are unable to do anything about this.
+
+We also have to consider that QR codes can be used to plant malware or be used in phishing scams, having unsuspecting victims scan them.  
+We are able to help mitigate the chances of this by having messages and warnings pop up about the potential hazard of QR codes.
+
 
 --- 
 ## weaknesses
-the main weakness of the system is that because the user is able to enter a string or link to a site they can implant a site that could install malware onto a device
+The main weakness of the system is that, because the user can enter a string or link to a site, they can implant a site that could install malware onto a device.
 
 ---
 
