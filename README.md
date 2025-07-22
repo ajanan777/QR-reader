@@ -1,3 +1,5 @@
+group project
+
 # QR Code Data Encoder
 
 This project features a set of Python scripts designed to take user input text, encode it into a binary format suitable for a QR code, apply Reed-Solomon error correction, and prepare it for QR code generation. A **Flask web server** handles user input.
@@ -138,10 +140,10 @@ User input is managed through the flask interface
 
 
 ### features
-there are many uses for a qr code. one go the most recent uses is useing them to show menu and order food
-our can be use for the same purpose we can add the url of the websites and place the qr code on the tables for customers to order food and view the menu
+There are numerous applications for QR codes. One of the most recent uses is using them to show menus and order food.
+Ours can be used for the same purpose. We can add the URL of the websites and place the QR code on the tables for customers to order food and view the menu.
 
-### evidance
+### evidence
 
 Test string: hi 
-reedsolomon encoded codewords: [64, 38, 134, 144, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 244, 219, 18, 20, 171, 219, 56]
+Reed-Solomon encoded codewords: [64, 38, 134, 144, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 17, 236, 244, 219, 18, 20, 171, 219, 56]
